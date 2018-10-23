@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: 201809291622demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: dbblyt
+Implementation-Vendor-Id: com.example
+Build-Jdk: 1.8.0_161
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/201809291622demo
+Created-By: Maven Integration for Eclipse
+
